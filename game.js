@@ -13,7 +13,7 @@ if (nivel === 'normal') {
 } else if (nivel === 'hard') {
     criarMosquitoTempo = 750
 } else if (nivel === 'chucknorris') {
-    criarMosquitoTempo = 200
+    criarMosquitoTempo = 300
 }
 
 function ajustaTamanhoPalcoJogo() {
